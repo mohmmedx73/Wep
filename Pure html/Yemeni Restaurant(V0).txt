@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="ar-YE">  
+
+
+     <head>
+          <meta charset="UTF-8">
+          <title>Yemeni Restaurant</title>      
+     </head>
+     <center>
+          <body bgcolor="LightGray">
+
+               <table border="1" width="1000">
+
+                    <!--Title and photo-->
+                    <tr>
+                         <td align="center"> <font size="6"><b>Yemeni Restaurant</b></font> </td>
+                         <td align="center">
+                              <img src="https://s3-eu-west-1.amazonaws.com/elmenusv5-stg/Normal/dc5973e0-2580-11e8-add5-0242ac110011.jpg" width="610" height="200" alt="no found" />
+                         </td>
+                    </tr>
+
+                    <!--Description-->
+                    <tr>
+                         <td colspan="2">
+                              <p>
+                                   <font size="3" face="arial">
+                                        A Yemeni restaurant for all popular Yemeni food,
+                                        and there are many amazing offers.<br /><hr /><br />
+                                   </font>
+                              </p>
+                         </td>
+                    </tr>
+
+                    <!--Menu-->
+                    <tr>
+                         <td>
+                              <font size="6" color="blue"><b>List of Menu</b></font>
+                              <hr />
+                         </td>
+                         <td title="space for ads" bgcolor="Gray">
+                              <!-- In order to leave space for ads
+                              |
+                              |     SPACE FOR ADS
+                              |
+                              |
+                              -->
+                         </td>
+                    </tr>
+
+                    <!--Content Menu-->
+                    <tr>
+                         <td rowspan="3">
+                              <ul>
+                                   <li> <a href="#Di"><font size="5">Dishes</font></a> </li>
+                                   <br />
+                                   <li> <a href="#A"><font size="5">Additions</font></a> </li>
+                                   <br />
+                                   <li> <a href="#Dr"><font size="5">Drinks</font></a> </li>
+                              </ul>
+                         </td>
+                    </tr>
+                    <tr>
+                         <td title="space for ads" bgcolor="Gray" height="130">
+                              <!-- (border="1")  In order to leave space for ads
+                              |
+                              |     SPACE FOR ADS
+                              |
+                              |
+                              -->
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center">
+                              <font color="red" size="10">The offers</font>
+                         </td>
+                    </tr>
+
+
+                    <!-- START the offers. -->
+                    <tr>
+                         <td title="space for ads" bgcolor="Gray">
+                              <!-- (border="1")  In order to leave space for ads
+                              |
+                              |     SPACE FOR ADS
+                              |
+                              |
+                              -->
+                         </td>
+                         <td align="center">
+                              <table border="1" width="720">
+
+                                   <tr>
+                                        <th colspan="3" align="center"><font size="5">Family offers</font></th>
+                                   </tr>
+                                   <tr>
+                                        <th> What it looks like </th>
+                                        <th width="100"> The Offers </th>
+                                        <th> Details </th>
+                                   </tr>
+                                   <tr dir="rtl">
+                                        <td align="center"> <img src="https://img-global.cpcdn.com/recipes/a0e982c488fe0d5b/1200x630cq70/photo.jpg" alt="no found Image" width="200" height="150" /></td>
+                                        <td> فتة موز  </td>
+                                        <td> إذا تم طلب نصف خروف ، سوف تحصلو على فتة موز بالقشطة والعسل مجانًا.</td>
+
+                                   </tr>
+                                   <tr>
+                                        <th colspan="3" align="center"><font size="5">Special offers</font></th>
+                                   </tr>
+                                   <tr>
+                                        <th> What it looks like </th>
+                                        <th width="100"> The Offers </th>
+                                        <th> Details </th>
+                                   </tr>
+                                   <tr dir="rtl">
+                                        <td align="center"> <img src="https://kitchen.sayidaty.net/uploads/small/72/72e435beb0ecb9363540eb497a848421_w750_h750.jpg" alt="no found Image" width="200" height="150" /></td>
+                                        <td> كنافه </td>
+                                        <td> في بدايه شهر ديسمر الجاي 1\12\2020 سيحصل اول عشره على صحن كنافة مجاناً.</td>
+
+                                   </tr>
+                                   <tr dir="rtl">
+                                        <td align="center"> <img src="https://previews.123rf.com/images/icreative3d/icreative3d1607/icreative3d160700658/59357420-discount-15-percent-off-3d-illustration-on-white-background-.jpg" alt="no found Image" width="200" height="150" /></td>
+                                        <td> 20% خصم </td>
+                                        <td> سيتم خصم 20 بالميه من كل طلب فوق ال200 جنيه. </td>
+
+                                   </tr>
+                              </table>
+                         </td>
+                    </tr>
+                    <!-- END the offers.-->
+
+               </table>
+
+
+               <table border="1" width="1000">
+                    <tr>
+                         <th id="Di" colspan="3" align="center"><font size="5">Dishes</font></th>
+                    </tr>
+                    <!--زربيان دجاج-->
+                    <tr>
+                         <td rowspan="3" width="20">
+                              <img src="https://modo3.com/thumbs/fit630x300/60296/1443436683/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%B9%D9%85%D9%84_%D8%B1%D8%B2_%D8%B2%D8%B1%D8%A8%D9%8A%D8%A7%D9%86_%D8%A8%D8%A7%D9%84%D8%AF%D8%AC%D8%A7%D8%AC.jpg" width="200" height="125" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">زربيان دجاج</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>دجاج,ارز بسمتي</dd>
+                                   <dd>بطاطس مقطعه مكعبات كبيره</dd>
+                                   <dd>هيل,قرفه,ورق غار,قرنفل</dd>
+
+                              </dl>
+                         </td>
+                         </td>
+                         <td align="center">
+                              45 EGP
+                         </td>
+                    </tr>
+
+                    <!--زربيان لحم-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://kitchen.sayidaty.net/uploads/node/zerbian-beef.jpg" width="200" height="125" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">زربيان لحم</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>لحم,ارز بسمتي</dd>
+                                   <dd>بطاطس مقطعه مكعبات كبيره,صبغه برتقالي,صفار زعفران</dd>
+                                   <dd>هيل,قرفه,ورق غار,قرنفل</dd>
+
+                              </dl>
+                         </td>
+                         <td align="center">
+                              95 EGP
+                         </td>
+                    </tr>
+
+                    <!--عقدة لحم غنمي-->
+                    <tr>
+                         <td rowspan="3">
+                              <center> <img src="https://ymna.net/wp-content/uploads/2019/03/%D8%B9%D9%82%D8%AF%D8%A9-%D9%84%D8%AD%D9%85-%D9%85%D8%B9-%D8%A7%D9%84%D8%B5%D8%A7%D8%B53.jpg" width="150" height="125" /> </center>
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">عقدة لحم غنمي</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>لحم غنمي,بطاطس,طماط</dd>
+                                   <dd>بسباس عدني,ثوم</dd>
+                                   <dd>كبزره,بقدونس,بصل,نص فلفل بارد,صلصه</dd>
+
+                              </dl>
+                         </td>
+                         <td align="center">
+                              65 EGP
+                         </td>
+                    </tr>
+
+
+                    <!--لحم حنيذ-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://www.hiamag.com/sites/default/files/styles/ph2_960_600/public/recipe/5800741-1172118364.jpg" width="200" height="125" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">لحم حنيذ</font></td>
+                         <td align="center"><b>السعر</b></td>
+
+
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>لحم غنمي,ارز بسمتي</dd>
+                                   <dd>عودان من القرفه,فلفل اسود</dd>
+                                   <dd>حبتان من القرفه,ملعقه كبيره من بهارت اللحم</dd>
+
+                              </dl>
+                         </td>
+                         <td align="center">
+                              70 EGP
+                         </td>
+
+                    </tr>
+
+                    <!--كبده-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://i.ytimg.com/vi/q6rZfiM4o-U/maxresdefault.jpg" width="200" height="125" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">كبده</font></td>
+                         <td align="center"><b>السعر</b></td>
+
+
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>كبده غنمي</dd>
+                                   <dd>بصل,طماط,فلفل اخضر,فلفل بارد</dd>
+                                   <dd>كزبرة,بهارات فلفل اسود,كمون</dd>
+
+                              </dl>
+                         </td>
+                         <td align="center">
+                              40 EGP
+                         </td>
+
+                    </tr>
+
+
+
+
+                    <tr>
+                         <th id="A" colspan="3" align="center"><font size="5">Additions</font></th>
+                    </tr>
+                    <!--خبز يمني-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://img.atyabtabkha.com/DwCghPirYpD_PD9th_2r-K5sCZY=/640x360/https://harmony-assets-live.s3.amazonaws.com/image_source/06/03/06030e3368f2fb843438f6771486b571be3d2bbc.jpg" width="200" height="115" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">خبز يمني</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>يسمى <b>ملوح </b> او<b> ملوج</b></dd>
+                                   <dd>دقيق اسمر,دقيق ابيض,حليب بودر,حبه سوداء</dd>
+                              </dl>
+                         </td>
+                         <td align="center">
+                              5 EGP
+                         </td>
+                    </tr>
+
+                    <!--فتة موز بالقشطة والعسل-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://img-global.cpcdn.com/recipes/a0e982c488fe0d5b/1200x630cq70/photo.jpg" width="200" height="115" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">فتة موز بالقشطة والعسل</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>خبز,عسل,موز</dd>
+                                   <dd>قشطه,حبه سوداء</dd>
+                              </dl>
+                         </td>
+                         <td align="center">
+                              25 EGP
+                         </td>
+                    </tr>
+
+                    <!--كنافه-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://kitchen.sayidaty.net/uploads/small/72/72e435beb0ecb9363540eb497a848421_w750_h750.jpg" width="200" height="115" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">كنافه</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>خبز,عسل,موز</dd>
+                                   <dd>قشطه,حبه سوداء</dd>
+                              </dl>
+                         </td>
+                         <td align="center">
+                              35 EGP
+                         </td>
+                    </tr>
+
+
+
+
+                    <tr>
+                         <th id="Dr" colspan="3" align="center"><font size="5">Drinks</font></th>
+                    </tr>
+                    <!--شاي حليب عدني-->
+                    <tr>
+                         <td rowspan="3">
+                              <img src="https://pbs.twimg.com/profile_images/2941178470/6d6570dfe088652d81c780b99b9ee700_400x400.png" width="200" height="115" />
+                         </td>
+                    </tr>
+                    <tr>
+                         <td align="center"><font size="5">شاي حليب عدني</font></td>
+                         <td align="center"><b>السعر</b></td>
+                    </tr>
+                    <tr>
+                         <td dir="rtl">
+                              <dl>
+                                   <b>المكونات</b>
+                                   <dd>ماء,علبه حليب شاهي الممتاز</dd>
+                                   <dd> سكر,هيل قرنفل</dd>
+                              </dl>
+                         </td>
+                         <td align="center">
+                              10 EGP
+                         </td>
+                    </tr>
+
+               </table>
+
+               <br />
+               <br />
+               <br />
+               <br />
+               <br />
+               <br />
+               <br />
+               <br />
+               <br />
+
+               <address>
+                    <b>Qasem</b>
+                    11410120170409@stud.cu.edu.eg
+               </address>
+
+          </body>
+     </center>
+
+
+</html> 
